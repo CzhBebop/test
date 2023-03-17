@@ -7,4 +7,4 @@ the other explaining the relationship between the granularity of disentangling a
 Additionally, we have conducted more disentangling comparison experiments in our study, 
 including unsupervised disentangling comparisons with contrlVAE, GuideVAE, disco, and HFVAE on multiple training sets. 
 
-Furthermore, compared to the original paper that only used the MIG metric, the new comparative experiments were conducted under more recognized disentangling metrics(Factor, Sap ,Mig).
+Furthermore, compared to the original paper that only used the MIG metric, the new comparative experiments were conducted under multiple recognized disentangling metrics(Factor, Sap ,Mig).
