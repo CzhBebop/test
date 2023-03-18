@@ -1,4 +1,4 @@
-In the main.pdf, we have included selected modified sections with the modifications indicated in red font. 
+In the ModificationExcerpts.pdf, we have included selected modified sections with the modifications indicated in red font. 
 
 In order to help readers better understand the article, we have added two illustrative figures, 
 one explaining the decomposition process of the total correlation and 
